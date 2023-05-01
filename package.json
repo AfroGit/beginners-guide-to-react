@@ -1,0 +1,19 @@
+{
+  "name": "beginners-guide-to-react",
+  "version": "1.0.0",
+  "description": "Watch [The Beginner's Guide to React for free on egghead.io](https://kcd.im/beginner-react).",
+  "main": "mockServiceWorker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfroGit/beginners-guide-to-react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AfroGit/beginners-guide-to-react/issues"
+  },
+  "homepage": "https://github.com/AfroGit/beginners-guide-to-react#readme"
+}
